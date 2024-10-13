@@ -38,8 +38,8 @@ This repository contains a React-based front-end for displaying processed news a
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Abhigyan126/Newspaper.ai-React.git
+   cd Newspaper.ai-React
    ```
 
 2. Install the dependencies:
