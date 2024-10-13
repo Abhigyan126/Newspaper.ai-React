@@ -1,6 +1,9 @@
 
 # News Display Front-End
 
+News Processing Pipeline Implementation - https://newspaper-ai-two.vercel.app/
+<br/>
+Backend Implementation - https://github.com/Abhigyan126/Newspaper.AI
 This repository contains a React-based front-end for displaying processed news articles. It reads data from a `processed_news.json` file and renders a list of articles on a homepage.
 
 ## Features
